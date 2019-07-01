@@ -1,0 +1,11 @@
+C:\Users\プログラミング 一木\my-omikuji-cli\bin\Debug\netcoreapp2.2\Myomikujicli.deps.json
+C:\Users\プログラミング 一木\my-omikuji-cli\bin\Debug\netcoreapp2.2\Myomikujicli.runtimeconfig.json
+C:\Users\プログラミング 一木\my-omikuji-cli\bin\Debug\netcoreapp2.2\Myomikujicli.runtimeconfig.dev.json
+c:\Users\プログラミング 一木\my-omikuji-cli\bin\Debug\netcoreapp2.2\Myomikujicli.dll
+c:\Users\プログラミング 一木\my-omikuji-cli\bin\Debug\netcoreapp2.2\Myomikujicli.pdb
+c:\Users\プログラミング 一木\my-omikuji-cli\obj\Debug\netcoreapp2.2\Myomikujicli.csprojAssemblyReference.cache
+c:\Users\プログラミング 一木\my-omikuji-cli\obj\Debug\netcoreapp2.2\Myomikujicli.csproj.CoreCompileInputs.cache
+c:\Users\プログラミング 一木\my-omikuji-cli\obj\Debug\netcoreapp2.2\Myomikujicli.AssemblyInfoInputs.cache
+c:\Users\プログラミング 一木\my-omikuji-cli\obj\Debug\netcoreapp2.2\Myomikujicli.AssemblyInfo.cs
+c:\Users\プログラミング 一木\my-omikuji-cli\obj\Debug\netcoreapp2.2\Myomikujicli.dll
+c:\Users\プログラミング 一木\my-omikuji-cli\obj\Debug\netcoreapp2.2\Myomikujicli.pdb
